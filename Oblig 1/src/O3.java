@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class OppgaveO3 {
+public class O3 {
 	public static void main(String args[]) {
 		Scanner tallScanner = new Scanner(System.in);
 		String s = tallScanner.nextLine();

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Oppgave5B {
+public class O2 {
     public static void main(String args[]) {
     	Scanner karaktererScanner = new Scanner(System.in);
     	for (int i = 0; i < 10; i++) {
