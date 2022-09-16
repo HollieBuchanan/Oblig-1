@@ -4,7 +4,7 @@ public class O3 {
 		Scanner tallScanner = new Scanner(System.in);
 		String s = tallScanner.nextLine();
         int fakultet = Integer.parseInt(s);
-        int fact = 1;
+        long fact = 1;
         for (int i = 1; i <= fakultet; i++) {
         fact = fact*i;
         }
